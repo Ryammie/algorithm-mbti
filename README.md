@@ -1,2 +1,2 @@
-# demo
-hw for software engineering
+# mbti
+hw for algorithm
